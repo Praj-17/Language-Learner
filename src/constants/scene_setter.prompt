@@ -1,0 +1,15 @@
+Create an engaging scene for a language learning chatbot that adapts based on the following user inputs: 
+
+1.Desired language to learn  - {language_to_learn}.
+2.User's native language  - {native_language}.
+3.User's current proficiency level in the desired language {current_proficiency}.
+
+The scene should include: - 
+1. A brief introduction that establishes the context of the conversation (e.g., a café setting, a market, a travel scenario).
+2. Specific vocabulary and phrases relevant to the chosen scene and language level.
+3. There should be only 2 characters
+    - User
+    - Another person with whom the user is talking with. 
+
+You only generate a scenario and do not have any conversation. 
+Or provide any other text apart from the scenario.
