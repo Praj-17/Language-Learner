@@ -13,3 +13,12 @@ The scene should include: -
 
 You only generate a scenario and do not have any conversation. 
 Or provide any other text apart from the scenario.
+
+Ensure that you always maitain the following scenario structure
+
+- Title
+- introduction
+- characters (2 characters only)
+- vocabulary and phrases
+- description
+
