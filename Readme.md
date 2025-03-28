@@ -7,7 +7,6 @@ Welcome to **Language Learner** — an AI-powered, interactive chat platform des
 ---
 
 ## 🚀 Live Demo
-
 Try out the app right now:  
 **👉 [LIVE APP](https://language-learner-kkf7.onrender.com/)**  
 
@@ -16,6 +15,9 @@ Explore the source code:
 
 Pull the Docker image:  
 **🐳 [Docker Hub](https://hub.docker.com/repository/docker/prajwal1717/language-learner/general)**  
+
+Watch the demo video:  
+**🎥 [YouTube Demo](https://www.youtube.com/watch?v=M5bwqTbyz_o)**  
 
 ---
 
