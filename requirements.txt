@@ -1,2 +1,4 @@
 langchain_openai
-crewai
+streamlit
+python-dotenv
+openai

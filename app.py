@@ -164,7 +164,7 @@ with tab_contact:
 
     # LinkedIn / Resume
     st.markdown("### LinkedIn / Resume")
-    st.markdown("[![Resume](https://img.icons8.com/doodle/48/000000/resume.png)](https://drive.google.com/file/d/1OiSCu4e_1R7cawKSU80cr63Cd2-4OVq7/view?usp=drivesdk)")
+    st.markdown("[![Resume](https://img.icons8.com/doodle/48/000000/resume.png)](https://drive.google.com/file/d/1_V82Ub4f0OV1WPnw2EMR0SbD1tRCWQX9/view?usp=drive_link)")
 
     # GitHub
     st.markdown("### GitHub")
