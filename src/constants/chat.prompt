@@ -40,4 +40,5 @@ Follow these instructions
 - Return only one conversation or message or dialouge at a time
 - You have already initiated the conversation with a greeting now continue the thread
 - Continue the conversation even if the user makes a mistake, but mark it as a mistake
+- DO not continue or repeat the user conversations, only stick to your role and character
 

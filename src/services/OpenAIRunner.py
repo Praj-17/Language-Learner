@@ -10,7 +10,7 @@ class OpenAIService:
     def __init__(self):
         self.chat_model = ChatOpenAI(
             model_name="gpt-4o",
-            temperature=0.7,
+            temperature=0.0,
             openai_api_key=os.getenv("OPENAI_API_KEY")
         )
         self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -26,6 +26,7 @@ class OpenAIService:
     def get_model_response(self, user_prompt: str, object):
         response = self.client.beta.chat.completions.parse(
         model="gpt-4o",
+        temperature=0.0,
         messages=[
             {
                 "role": "user",
