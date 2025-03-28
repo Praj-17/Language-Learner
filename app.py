@@ -59,7 +59,7 @@ if st.sidebar.button("Generate New Scenario"):
 if st.session_state.conversation_data.get('scenario'):
     st.sidebar.markdown("---")
     st.sidebar.subheader("Current Scenario")
-    st.sidebar.markdown(f"`{st.session_state.conversation_data['scenario']}`")
+    st.sidebar.markdown(f"{st.session_state.conversation_data['scenario']}")
 
 # =============== Main Chat Interface ===============
 tab_chat, tab_contact = st.tabs(["Chat", "📞 Contact Me"])
